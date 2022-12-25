@@ -1,0 +1,13 @@
+#include <iostream>
+using namespace std;
+main()
+{
+int roll_number= 211;
+float aggregate=78.7;
+char section=D;
+string name=Eeman;
+cout << "My name is"; <<endl;
+cout << "My roll_number is";
+cout << "My section is";
+cout << My aggregate is";
+}
